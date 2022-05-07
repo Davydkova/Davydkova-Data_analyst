@@ -49,3 +49,4 @@ https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/project5
 Проведен анализ данных от ProcrastinatePRO+.Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. 
 Использованы уже написанные ранее функции расчёта метрик. 
 
+Please don't plagiarize any of my projects — it won't help you in the long run! =)
