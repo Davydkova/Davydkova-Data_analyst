@@ -48,5 +48,7 @@
 
 Проект выполнялся на удаленной машине в сервире  Yandex.Cloud. Реализован скрипт пайплайна, который позволил собирать данные за определенный временной период.  Используя данные Яндекс.Дзена построен дашборд (Tableau) с метриками взаимодействия пользователей с карточками статей. 
 
+Дашборд: (https://public.tableau.com/app/profile/vika3251/viz/yandex_dzen1/Dashboard1?publish=yes)
+
 
 Please don't plagiarize any of my projects — it won't help you in the long run! =)
