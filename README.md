@@ -62,7 +62,7 @@
 
 # [Проект 9 : Проведение А/В тестирования по ТЗ](https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/a_b%20test_final%20project) 
 
-# [Проект 10 : SQL. Запросы к БД через python] (https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/sql_project)
+# [Проект 10 : SQL. Запросы к БД через python](https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/sql_project)
 
 
 
