@@ -64,6 +64,6 @@
 
 # [Проект 10 : SQL. Запросы к БД через python](https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/sql_project)
 
-
+[Дашборд по играм ps4 (Power BI)](https://disk.yandex.ru/i/XEICPQw70C_NZg) 
 
 Please don't plagiarize any of my projects — it won't help you in the long run! =)
