@@ -64,8 +64,10 @@
 
 # [Проект 10 : SQL. Запросы к БД через python](https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/sql_project)
 
-[Дашборд по играм ps4 (Power BI)](https://disk.yandex.ru/i/XEICPQw70C_NZg) 
+# [Дашборд по играм ps4 (Power BI)](https://disk.yandex.ru/i/XEICPQw70C_NZg) 
 
-[Дашборд по операторам распростронения сети (Power BI)](https://disk.yandex.ru/i/oDxiS7pca1EyXQ) 
+# [Дашборд по операторам распростронения сети (Power BI)](https://disk.yandex.ru/i/oDxiS7pca1EyXQ) 
+
+# [Дашборд рейтинг фильма (Power BI)] (https://disk.yandex.ru/d/Yp6SSc1z2Tp-aw)
 
 Please don't plagiarize any of my projects — it won't help you in the long run! =)
