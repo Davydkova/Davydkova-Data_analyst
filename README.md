@@ -65,6 +65,7 @@
 # [Проект 10 : SQL. Запросы к БД через python](https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/sql_project)
 
 # [Дашборд по играм ps4 (Power BI)](https://disk.yandex.ru/i/XEICPQw70C_NZg) 
+[DataLens](https://datalens.yandex.ru/os3tbyh7rz52f-ps4-games?state=3a7b10da5028)
 
 # [Дашборд по операторам распростронения сети (Power BI)](https://disk.yandex.ru/i/oDxiS7pca1EyXQ) 
 
