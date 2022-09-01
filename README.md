@@ -70,5 +70,6 @@
 ## [Дашборд по операторам распростронения сети (Power BI)](https://disk.yandex.ru/i/oDxiS7pca1EyXQ) 
 
 ## [Дашборд рейтинг фильма (Power BI)](https://disk.yandex.ru/d/Yp6SSc1z2Tp-aw)
+## [Дашборд рейтинг фильма (DataLens)](https://datalens.yandex/osa8w8e03r4uf)
 
 Please don't plagiarize any of my projects — it won't help you in the long run! =)
