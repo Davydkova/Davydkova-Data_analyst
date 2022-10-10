@@ -3,8 +3,8 @@
 
 Я совершенствую свои навыки работы с Python и его библиотекой анализа данных (Numpy, pandas, Matplotlib, plotly, scipy, scikit Learn, seaborn) и SQL, создав портфолио проектов.
 
-#Pet project 
-"[Парсер телеграм-каналов с вакансиями, EDA, дашборд](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/Pets%20project/Telegram_API_Git_.ipynb)
+# Pet проект [Парсер телеграм-каналов с вакансиями, EDA, дашборд](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/Pets%20project/Telegram_API_Git_.ipynb)
+
 Написать парсер вакансий с телеграмм-каналов; провести исследовательский анализ данных. Результаты исследования заработной платы в вакансиях собрать в функциональный дашборд
 ## [Дашборд](https://datalens.yandex/jvp1t1nyzuega)
 
