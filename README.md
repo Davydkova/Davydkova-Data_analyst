@@ -72,6 +72,8 @@ ________________________________________________________________________________
 
 # [Проект 10 : SQL. Запросы к БД через python](https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/sql_project)
 
+# [Проект 11 : SQL(Postgre). Проанализировать данные о фондах и инвестициях и написать запросы к базе.]
+
 ## [Дашборд по играм ps4 (Power BI)](https://disk.yandex.ru/i/XEICPQw70C_NZg) 
 ## [Дашборд по играм ps4 (DataLens)](https://datalens.yandex/os3tbyh7rz52f)
 
