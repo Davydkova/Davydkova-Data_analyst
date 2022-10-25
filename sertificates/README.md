@@ -8,4 +8,6 @@
 Дополнительно:
 
 1. [Оконные функции SQL](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/SQL%20.pdf)
-3. [Английский язык](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/English.jpg)
+2. [Статистика]
+3. [Python]
+4. [Английский язык](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/English.jpg)
