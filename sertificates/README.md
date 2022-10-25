@@ -13,3 +13,4 @@
 4. [Python](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/%D0%9F%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20Python.pdf)
 5. [Программирование на Python](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20Python.pdf)
 6. [Английский язык](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/English.jpg)
+7. [Введение в DS](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20DS.pdf)
