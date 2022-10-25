@@ -7,5 +7,5 @@
 
 Дополнительно:
 
-
+1. [Оконные функции SQL](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/SQL%20.pdf)
 3. [Английский язык](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/English.jpg)
