@@ -1,5 +1,5 @@
 # Davydkova-Data_analyst
-## Сертификаты о прохождении курсов  
+## [Сертификаты о прохождении курсов](https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/sertificates)  
 
 Я совершенствую свои навыки работы с Python и его библиотекой анализа данных (Numpy, pandas, Matplotlib, plotly, scipy, scikit Learn, seaborn) и SQL, создав портфолио проектов.
 
