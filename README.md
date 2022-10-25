@@ -1,5 +1,5 @@
 # Davydkova-Data_analyst
-# Сертификат:  https://disk.yandex.ru/i/gmMu8pWurYICJg
+## Сертификаты о прохождении курсов  
 
 Я совершенствую свои навыки работы с Python и его библиотекой анализа данных (Numpy, pandas, Matplotlib, plotly, scipy, scikit Learn, seaborn) и SQL, создав портфолио проектов.
 
