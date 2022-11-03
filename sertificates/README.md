@@ -15,3 +15,4 @@
 6. [Английский язык](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/English.jpg)
 7. [Введение в DS](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20DS.pdf)
 8. [Big Date и Data Science: начни погружение с нуля](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/BIG%20DATE%20.pdf)
+9. [Расширенный курс по Google Analytics](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/sertificates/Course_Certificate.pdf)
