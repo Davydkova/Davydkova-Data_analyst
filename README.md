@@ -15,7 +15,7 @@
 - выгрузка данных с помощью API
 - machine learning
 
-# Pet проект [Парсинг телеграм-каналов с вакансиями, EDA, дашборд](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/Pets%20project/Telegram_API_Git_.ipynb)
+# Pet проект [Парсинг телеграм-каналов с вакансиями, EDA, дашборд](https://github.com/Davydkova/Davydkova-Data_analyst/blob/main/Pets%20project/Telegram_DA_%20WITH%20VIEWS%20GRAFIC.ipynb)
 
 Написать парсер вакансий с телеграмм-каналов; провести исследовательский анализ данных. Результаты исследования заработной платы в вакансиях собрать в функциональный дашборд
 ### [Дашборд Парсинг telegram каналов по Data Analyst, Data Enginner, Data Science. Исследование заработной платы в вакансиях за период 2019-2022гг.](https://datalens.yandex/jvp1t1nyzuega)
