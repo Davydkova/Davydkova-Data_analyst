@@ -78,11 +78,8 @@ ________________________________________________________________________________
 # [Проект 11 : SQL(Postgre).Проанализировать данные о фондах и инвестициях.База данных основана на датасете Startup Investments](https://github.com/Davydkova/Davydkova-Data_analyst/tree/main/project11)
 
 ## [Дашборд по играм ps4 (Power BI)](https://disk.yandex.ru/i/XEICPQw70C_NZg) 
-## [Дашборд по играм ps4 (DataLens)](https://datalens.yandex/os3tbyh7rz52f)
-
 ## [Дашборд по операторам распростронения сети (Power BI)](https://disk.yandex.ru/i/oDxiS7pca1EyXQ) 
-
 ## [Дашборд рейтинг фильма (Power BI)](https://disk.yandex.ru/d/Yp6SSc1z2Tp-aw)
-## [Дашборд рейтинг фильма (DataLens)](https://datalens.yandex/osa8w8e03r4uf)
+
 
 Please don't plagiarize any of my projects — it won't help you in the long run! =)
